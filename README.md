@@ -1,5 +1,7 @@
 # ESP32 Terminal
 
+![Terminal CRT](docs/terminal.jpg)
+
 Terminal vintage sobre CRT B/N (320x240) en un ESP32-S3 con video compuesto
 por **LCD_CAM + GDMA**. Capa gráfica: **LVGL** (8-bit grayscale). Teclado
 **BLE** (host HID / HOGP con NimBLE) y conexión **SSH** a un host
